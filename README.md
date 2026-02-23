@@ -78,11 +78,16 @@ Run analysis notebooks for data exploration and insights:
 jupyter notebook project2-checkpoint.ipynb
 ```
 ## Business insights
-Most frequently prescribed medicines
-<img width="1079" height="667" alt="image" src="https://github.com/user-attachments/assets/2a64193c-1ba7-40a5-a700-2acd31b7d531" />
 
-Doctor wise Prescription Volume
+<div align="center">
+<h2>Most frequently prescribed medicines</h2>
+<img width="1079" height="667" alt="image" src="https://github.com/user-attachments/assets/2a64193c-1ba7-40a5-a700-2acd31b7d531" />
+</div>
+
+<div align="center">
+<h2>Doctor wise Prescription Volume</h2>
 <img width="1074" height="641" alt="image" src="https://github.com/user-attachments/assets/eec74927-d6f1-4e80-95ac-11d64bc19816" />
+</div>
 
 
 <div align="center">
@@ -91,20 +96,26 @@ Doctor wise Prescription Volume
 </div>
 
 
-Age Group vs Number of Prescriptions
+<div align="center">
+<h2>Age Group vs Number of Prescriptions</h2>
 <img width="673" height="482" alt="image" src="https://github.com/user-attachments/assets/d5bb5b76-c555-49f1-995d-6ccccc1761f8" />
+</div>
 
-
-Doctors with High Prescription Volume
+<div align="center">
+<h2>Doctors with High Prescription Volume</h2>
 <img width="862" height="580" alt="image" src="https://github.com/user-attachments/assets/b3d20350-42e9-4c48-923c-0599959fbf05" />
+</div>
 
-
-Daily Prescription Trend
+<div align="center">
+<h2>Daily Prescription Trend</h2>
 <img width="1051" height="644" alt="image" src="https://github.com/user-attachments/assets/a97d77fb-2f1a-41f5-8620-84870af3a59c" />
+</div>
 
 
-Data Quality Comparison
+<div align="center">
+<h2></h2>Data Quality Comparison</h2>
 <img width="588" height="481" alt="image" src="https://github.com/user-attachments/assets/9fff9dd2-e731-469f-87c5-8d0ee36bf24a" />
+</div>
 
 
 
