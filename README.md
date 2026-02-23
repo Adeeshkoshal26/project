@@ -85,8 +85,10 @@ Doctor wise Prescription Volume
 <img width="1074" height="641" alt="image" src="https://github.com/user-attachments/assets/eec74927-d6f1-4e80-95ac-11d64bc19816" />
 
 
-Gender wise Prescription Distribution
+<div align="center">
+<h2>Gender wise Prescription Distribution</h2>
 <img width="674" height="488" alt="image" src="https://github.com/user-attachments/assets/814ed227-12a4-463d-8be0-8945b8547891" />
+</div>
 
 
 Age Group vs Number of Prescriptions
@@ -103,6 +105,7 @@ Daily Prescription Trend
 
 Data Quality Comparison
 <img width="588" height="481" alt="image" src="https://github.com/user-attachments/assets/9fff9dd2-e731-469f-87c5-8d0ee36bf24a" />
+
 
 
 
