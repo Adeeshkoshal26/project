@@ -75,7 +75,8 @@ engine = create_engine("mysql+mysqlconnector://user:password@localhost/Digital_p
 ### Jupyter Notebooks
 Run analysis notebooks for data exploration and insights:
 ```bash
-jupyter notebook project.ipynb
+jupyter notebook project2-checkpoint.ipynb
 ```
+
 
 
