@@ -113,9 +113,10 @@ jupyter notebook project2-checkpoint.ipynb
 
 
 <div align="center">
-<h2></h2>Data Quality Comparison</h2>
+<h2>Data Quality Comparison</h2>
 <img width="588" height="481" alt="image" src="https://github.com/user-attachments/assets/9fff9dd2-e731-469f-87c5-8d0ee36bf24a" />
 </div>
+
 
 
 
