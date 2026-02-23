@@ -81,6 +81,30 @@ jupyter notebook project2-checkpoint.ipynb
 Most frequently prescribed medicines
 <img width="1079" height="667" alt="image" src="https://github.com/user-attachments/assets/2a64193c-1ba7-40a5-a700-2acd31b7d531" />
 
+Doctor wise Prescription Volume
+<img width="1074" height="641" alt="image" src="https://github.com/user-attachments/assets/eec74927-d6f1-4e80-95ac-11d64bc19816" />
+
+Gender wise Prescription Distribution
+<img width="674" height="488" alt="image" src="https://github.com/user-attachments/assets/814ed227-12a4-463d-8be0-8945b8547891" />
+
+Age Group vs Number of Prescriptions
+<img width="673" height="482" alt="image" src="https://github.com/user-attachments/assets/d5bb5b76-c555-49f1-995d-6ccccc1761f8" />
+
+Doctors with High Prescription Volume
+<img width="862" height="580" alt="image" src="https://github.com/user-attachments/assets/b3d20350-42e9-4c48-923c-0599959fbf05" />
+
+Daily Prescription Trend
+<img width="1051" height="644" alt="image" src="https://github.com/user-attachments/assets/a97d77fb-2f1a-41f5-8620-84870af3a59c" />
+
+Data Quality Comparison
+<img width="588" height="481" alt="image" src="https://github.com/user-attachments/assets/9fff9dd2-e731-469f-87c5-8d0ee36bf24a" />
+
+
+
+
+
+
+
 
 
 
