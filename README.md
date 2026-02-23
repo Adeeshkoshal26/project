@@ -77,6 +77,10 @@ Run analysis notebooks for data exploration and insights:
 ```bash
 jupyter notebook project2-checkpoint.ipynb
 ```
+## Business insights
+Most frequently prescribed medicines
+<img width="1079" height="667" alt="image" src="https://github.com/user-attachments/assets/2a64193c-1ba7-40a5-a700-2acd31b7d531" />
+
 
 
 
